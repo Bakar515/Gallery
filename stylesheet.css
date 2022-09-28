@@ -1,0 +1,80 @@
+.bg-dark {
+    margin:0px;
+    padding:0px;
+    height: auto;
+}
+.images{
+    margin-left:100px;
+    margin-right:100px;
+    height:auto;
+    padding-left: 100px;
+}
+#img1{
+    margin-top:10px;
+    margin-bottom:10px;
+    border:groove;
+    align-items: left;
+}
+#img2 {
+    width:300px;
+    height:250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border:groove;
+}
+#img3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border:groove;
+}
+#img4 {
+    width:300px;
+    height:250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border:groove;
+}
+#img5 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border:groove;
+}
+#img6 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border:groove;
+}
+#img7 {
+    width:300px;
+    height:250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border:groove;
+}
+#img8 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border:groove;
+}
+#img9 {
+    width:300px;
+    height:250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border:groove;
+}
+#camera {
+    display: none;
+}
+#headphone {
+    display: none;
+}
+#phone {
+    display: none;
+}
+#watch {
+    display: none;
+}
+#shoe {
+    display: none;
+}
