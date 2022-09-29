@@ -1,24 +1,3 @@
-<!DOCTYPE html>
-
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Gallery page</title>
-    <link rel="stylesheet" href="css/bootstrap.css" />
-    <link rel="stylesheet" href="stylesheet.css">
-    <script src="http://code.jquery.com/jquery-latest.js"></script>
-</head>
-<body>
-    <div class="p-3 mb-2 bg-dark text-white">
-        <div>
-            <button id="div1show" class="btn btn-dark">All</button>
-            <button id="div2show" class="btn btn-dark">Camera</button>
-            <button id="div3show" class="btn btn-dark">HeadPhone</button>
-            <button id="div4show" class="btn btn-dark">Phone</button>
-            <button id="div5show" class="btn btn-dark">Shoe</button>
-            <button id="div6show" class="btn btn-dark">Watch</button>
-        </div>
         <div class="images" id="all">
             <img class="img-thumbnail" id=img1"" src="images/camera.jpg" />
             <img class="img-thumbnail" id="img2" src="images/shoe.jpg" />
