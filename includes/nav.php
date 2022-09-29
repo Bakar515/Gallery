@@ -1,6 +1,6 @@
 <?php
     foreach ($navItems as $item){
-        echo "<button href=\"$item[slug]\">$item[title]</button>";
+        echo "<button><a href=\"$item[slug]\">$item[title]</button></a>";
     }
     
 ?>
