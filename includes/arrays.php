@@ -5,22 +5,24 @@
                             slug => "index.php",
                             title => "All"
                         ),
-                        array(slug => "camera.php",
-                        title => "Camera"
-                        ),
-                        array(slug => "headphone.php",
-                        title => "Headphone"
+                        array(
+                            slug => "index.php",
+                            title => "Camera"
                         ),
                         array(
-                            slug => "phone.php",
+                            slug => "index.php",
+                            title => "Headphone"
+                        ),
+                        array(
+                            slug => "index.php",
                             title => "Phone"
                         ),
                         array(
-                            slug => "shoe.php",
+                            slug => "index.php",
                             title => "Shoe"
                         ),
                         array(
-                            slug => "watch.php",
+                            slug => "index.php",
                             title => "Watch"
                         ),
                     );
