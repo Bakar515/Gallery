@@ -1,6 +1,6 @@
-<?php
+<!-- <?php
     include('includes/arrays.php');
-?>
+?> -->
 
 <!DOCTYPE html>
 
