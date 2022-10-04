@@ -65,6 +65,7 @@
             <img class="img-thumbnail" id="img9" src="images/watch.jpg" />
         </div>
     </div>
+    <small> &copy;<php echo date('Y'); ?> </small>
     <script src="jquery.js"></script>
 </body>
 </html>
