@@ -8,7 +8,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Gallery page</title>
+    <title><?php echo TITLE; ?></title>
     <link rel="stylesheet" href="css/bootstrap.css" />
     <link rel="stylesheet" href="stylesheet.css">
     <script src="http://code.jquery.com/jquery-latest.js"></script>
